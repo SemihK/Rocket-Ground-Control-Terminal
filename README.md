@@ -10,5 +10,5 @@
 
 The project is not yet finished. Errors may occur.
 
-The project is in **BETA** phase.![Ekran görüntüsü 2021-10-19 190306](https://user-images.githubusercontent.com/18622792/137948999-d2e1e985-5b0f-4d0b-a7d8-9e57c543a9e7.png)
-
+The project is in **BETA** phase.!
+![Ekran görüntüsü 2021-10-24 144656](https://user-images.githubusercontent.com/18622792/138593393-baf79245-0915-4411-9152-e28e244ddc84.png)
