@@ -1,5 +1,5 @@
 # Rocket-Ground-System
-###### Teknofest rocket competition is the pegasus rocket team ground control station repos.
+###### Teknofest rocket competition is the pegasus and kuzgun rocket team ground control station repos.
 
 ###### A page has been created on the C# programming language Form.
 ###### Don't forget to select COM ports when using Form!
